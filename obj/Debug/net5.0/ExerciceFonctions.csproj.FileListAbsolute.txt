@@ -1,0 +1,32 @@
+C:\Users\Xavier\source\repos\ExerciceFonctions\bin\Debug\net5.0\ExerciceFonctions.exe
+C:\Users\Xavier\source\repos\ExerciceFonctions\bin\Debug\net5.0\ExerciceFonctions.deps.json
+C:\Users\Xavier\source\repos\ExerciceFonctions\bin\Debug\net5.0\ExerciceFonctions.runtimeconfig.json
+C:\Users\Xavier\source\repos\ExerciceFonctions\bin\Debug\net5.0\ExerciceFonctions.runtimeconfig.dev.json
+C:\Users\Xavier\source\repos\ExerciceFonctions\bin\Debug\net5.0\ExerciceFonctions.dll
+C:\Users\Xavier\source\repos\ExerciceFonctions\bin\Debug\net5.0\ref\ExerciceFonctions.dll
+C:\Users\Xavier\source\repos\ExerciceFonctions\bin\Debug\net5.0\ExerciceFonctions.pdb
+C:\Users\Xavier\source\repos\ExerciceFonctions\obj\Debug\net5.0\ExerciceFonctions.csproj.AssemblyReference.cache
+C:\Users\Xavier\source\repos\ExerciceFonctions\obj\Debug\net5.0\ExerciceFonctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xavier\source\repos\ExerciceFonctions\obj\Debug\net5.0\ExerciceFonctions.AssemblyInfoInputs.cache
+C:\Users\Xavier\source\repos\ExerciceFonctions\obj\Debug\net5.0\ExerciceFonctions.AssemblyInfo.cs
+C:\Users\Xavier\source\repos\ExerciceFonctions\obj\Debug\net5.0\ExerciceFonctions.csproj.CoreCompileInputs.cache
+C:\Users\Xavier\source\repos\ExerciceFonctions\obj\Debug\net5.0\ExerciceFonctions.dll
+C:\Users\Xavier\source\repos\ExerciceFonctions\obj\Debug\net5.0\ref\ExerciceFonctions.dll
+C:\Users\Xavier\source\repos\ExerciceFonctions\obj\Debug\net5.0\ExerciceFonctions.pdb
+C:\Users\Xavier\source\repos\ExerciceFonctions\obj\Debug\net5.0\ExerciceFonctions.genruntimeconfig.cache
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI\ExerciceFonctions\bin\Debug\net5.0\ExerciceFonctions.exe
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI\ExerciceFonctions\bin\Debug\net5.0\ExerciceFonctions.deps.json
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI\ExerciceFonctions\bin\Debug\net5.0\ExerciceFonctions.runtimeconfig.json
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI\ExerciceFonctions\bin\Debug\net5.0\ExerciceFonctions.runtimeconfig.dev.json
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI\ExerciceFonctions\bin\Debug\net5.0\ExerciceFonctions.dll
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI\ExerciceFonctions\bin\Debug\net5.0\ExerciceFonctions.pdb
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI\ExerciceFonctions\obj\Debug\net5.0\ExerciceFonctions.csproj.AssemblyReference.cache
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI\ExerciceFonctions\obj\Debug\net5.0\ExerciceFonctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI\ExerciceFonctions\obj\Debug\net5.0\ExerciceFonctions.AssemblyInfoInputs.cache
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI\ExerciceFonctions\obj\Debug\net5.0\ExerciceFonctions.AssemblyInfo.cs
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI\ExerciceFonctions\obj\Debug\net5.0\ExerciceFonctions.csproj.CoreCompileInputs.cache
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI\ExerciceFonctions\obj\Debug\net5.0\ExerciceFonctions.dll
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI\ExerciceFonctions\obj\Debug\net5.0\refint\ExerciceFonctions.dll
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI\ExerciceFonctions\obj\Debug\net5.0\ExerciceFonctions.pdb
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI\ExerciceFonctions\obj\Debug\net5.0\ExerciceFonctions.genruntimeconfig.cache
+C:\Users\Vik Gladines\OneDrive\Documents\Ecole_IPI\IPI\ExerciceFonctions\obj\Debug\net5.0\ref\ExerciceFonctions.dll
